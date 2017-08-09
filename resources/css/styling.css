@@ -1,3 +1,8 @@
+* {
+	border: 1px solid black;
+}
+
+/* header styling */
 header {
 	font-family: Verdana;
 	font-size: 14px;
@@ -7,26 +12,24 @@ header {
 	align-items: center;
 	position: fixed;
 	width: 100%;
-	justify-content: space-between;
 	z-index: 1;
 	position: fixed;
+	height: 80px;
 }
 
-main {
-}
 
 .logo {
 	display: flex;
 	align-items: center;
 	padding-left: 30px;
 	color: MediumAquamarine;
+	flex-grow: 1;
 }
 
 .logo img {
 	width: 70px;
 	height: 60px;
 	margin-right: 12px;
-	flex-grow: 1;
 }
 
 header nav {
@@ -37,4 +40,31 @@ header nav {
 nav span {
 	display: inline-block;
 	padding: 20px 10px;
+}
+
+/* main content container styling */
+.main {
+	display: flex;
+	padding-top: 116px;
+}
+
+.left {
+	display: flex;
+	flex-direction: column;
+	width: 630px;
+	margin-right: 32px
+}
+
+.middle {
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+	margin-right: 32px
+}
+
+.right {
+	display: flex;
+	flex-direction: column;
+	width: 240px;
+	margin-right: 32px
 }
