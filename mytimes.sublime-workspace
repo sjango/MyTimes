@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"text",
+				"text-content"
+			],
+			[
 				"tex",
 				"text-align"
 			],
@@ -46,10 +54,6 @@
 			[
 				"s",
 				"story"
-			],
-			[
-				"flex",
-				"flex-grow"
 			],
 			[
 				"w",
@@ -147,7 +151,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3742,
+				"buffer_size": 3867,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -156,7 +160,7 @@
 			"file": "resources/css/styling.css",
 			"settings":
 			{
-				"buffer_size": 1482,
+				"buffer_size": 1571,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -200,6 +204,7 @@
 	],
 	"file_history":
 	[
+		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/IbsrTherapy/IBSR.sublime-project",
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/MyTimes/resources/css/styling.css",
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/MyTimes/index.html",
 		"/Volumes/Mac HD/shangho/CreativeVentures/Coding/webdevelopment/Codecademy/excursion/resources/css/style.css",
@@ -275,15 +280,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3742,
+						"buffer_size": 3867,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2938,
-								2938
+								1998,
+								1998
 							]
 						],
 						"settings":
@@ -292,7 +297,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 242.0,
+						"translation.y": 458.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -304,15 +309,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1482,
+						"buffer_size": 1571,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1285,
-								1285
+								1022,
+								1022
 							]
 						],
 						"settings":
@@ -321,7 +326,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1213.0,
+						"translation.y": 879.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
