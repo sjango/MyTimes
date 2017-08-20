@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"f",
+				"inline-flex"
+			],
+			[
 				"flex",
 				"flex-direction"
 			],
@@ -100,10 +108,6 @@
 				"inline"
 			],
 			[
-				"f",
-				"font-size"
-			],
-			[
 				"font-s",
 				"font-size"
 			],
@@ -151,7 +155,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3867,
+				"buffer_size": 4082,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -160,7 +164,7 @@
 			"file": "resources/css/styling.css",
 			"settings":
 			{
-				"buffer_size": 1571,
+				"buffer_size": 2309,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -271,7 +275,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -280,15 +284,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3867,
+						"buffer_size": 4082,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1998,
-								1998
+								3897,
+								3897
 							]
 						],
 						"settings":
@@ -297,10 +301,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 458.0,
+						"translation.y": 988.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -309,15 +313,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1571,
+						"buffer_size": 2309,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1022,
-								1022
+								2179,
+								2179
 							]
 						],
 						"settings":
@@ -326,10 +330,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 879.0,
+						"translation.y": 1903.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
